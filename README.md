@@ -16,6 +16,10 @@
 
 ## Try it now
 
+在官方基础上增加中文支持
+
+[参考文档](https://www.ixiqin.com/2022/04/03/for-excalidraw-add-chinese-handwriting/)
+
 Go to [excalidraw.com](https://excalidraw.com) to start sketching.
 
 Read the latest news and updates on our [blog](https://blog.excalidraw.com). A good start is to see all the updates of [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/).

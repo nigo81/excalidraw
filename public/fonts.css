@@ -11,3 +11,9 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+/*add chinese font*/
+@font-face {
+  font-family: "chinese";
+  src: url("chinese.ttf");
+  font-display: swap;
+}
